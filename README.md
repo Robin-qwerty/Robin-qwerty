@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robin-qwerty
 - 👀 And I’m interested in coding
-- 🌱 I’m currently learning HTML, CSS & PHP and a little bit of laravel and i would like to learn python.
+- 🌱 I’m currently learning to make apps using xamarin in C# and making websites in HTML, CSS & PHP and laravel and I would like to learn python.
 
 <!---
 Robin-qwerty/Robin-qwerty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
