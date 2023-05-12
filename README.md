@@ -23,7 +23,7 @@
 
  
 <p align="center">
-  <img src="https://github-readme-stats-sigma-two-42.vercel.app/api?username=Robin-qwerty&show_icons=true&theme=radical" alt="Seems like some API took too long to fetch my stats, try reloading the page"/>
-  <img src="https://github-readme-stats-sigma-two-42.vercel.app/api/top-langs/?username=Robin-qwerty&layout=compact&hide=llvm,java" alt="Seems like some API took too long to fetch my stats, try reloading the page"/>
+  <img style="height: 190px;" src="https://github-readme-stats-sigma-two-42.vercel.app/api?username=Robin-qwerty&show_icons=true&theme=radical" alt="Seems like some API took too long to fetch my stats, try reloading the page"/>
+  <img style="height: 190px;" src="https://github-readme-stats-sigma-two-42.vercel.app/api/top-langs/?username=Robin-qwerty&layout=compact&hide=llvm,java" alt="Seems like some API took too long to fetch my stats, try reloading the page"/>
 </p>
   
