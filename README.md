@@ -8,7 +8,6 @@
 
 ### Connect with me:
 <p align="left">
-  
   <a href="https://www.linkedin.com/in/robin-hollaar-b8ab01230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0095e6?style=for-the-badge&logo=linkedin&logoColor=white" title="Open my LinkedIn profile"></a>
   <a href="https://discordapp.com/users/709759520573882478" target="_blank"><img src="https://img.shields.io/badge/Discord-005380?style=for-the-badge&logo=discord&logoColor=white" title="Open my Discord profile"></a>
   <a href="https://www.youtube.com/channel/UCiBEY1wNNnHYMb7GHaO9nzw?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
@@ -16,11 +15,9 @@
   </a>
   
   #### 📫 How to reach me Robin@humilis.net
-  
 </p>
 
 <hr>
-
  
 <p align="center">
   <img style="height: 190px;" src="https://github-readme-stats-sigma-two-42.vercel.app/api?username=Robin-qwerty&show_icons=true&theme=radical" alt="Seems like some API took too long to fetch my stats, try reloading the page"/>
