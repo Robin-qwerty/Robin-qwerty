@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
 
 - 👀 I’m interested in coding and that is why i am currently studying software development
-- 🌱 I’m currently learning to make apps using xamarin in C# and making websites in HTML, CSS, PHP and jquery and used a little bit of laravel
+- 🌱 I’m currently learning to make web apps using Laravel with PHP, HTML and CSS
 - 🌱 And I would like to learn something new like rust, python, javascript, typescript or a new database management system
 
 <hr>
